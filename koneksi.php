@@ -1,0 +1,12 @@
+<?php
+$host = "localhost";
+$user = "root";
+$pass = "";
+$db   = "portofolio";
+
+$conn = mysqli_connect($host, $user, $pass, $db);
+
+if (!$conn) {
+    die("Koneksi ke database gagal!");
+}
+?>

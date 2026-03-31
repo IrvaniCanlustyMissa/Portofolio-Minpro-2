@@ -1,8 +1,8 @@
 ## MINPRO 2 PBW
 
-### Nama: Irvani Canlusty Missa
-### Kelas: A
-### NIM: 2409116019
+#### Nama: Irvani Canlusty Missa
+#### Kelas: A
+#### NIM: 2409116019
 
 tugas implementasi data dari database ke website portofolio pribadi. Tugas ini merupakan lanjutan dari Tugas 1.
 
